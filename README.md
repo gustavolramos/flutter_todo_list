@@ -20,8 +20,6 @@ Intl package (https://pub.dev/packages/intl)
 
 ### Disclaimer
 
-I created this alongisde a recorded course I took, from which I took a lot of the base structure and improved upon it :)
+I created this alongisde a recorded course I took, from which I used some of the base structure and improved upon it :)
 
-#### Git Testing
-
-I'm merely testing git commits with this information.
+Feel free to give me feedback
